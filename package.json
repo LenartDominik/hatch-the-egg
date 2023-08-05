@@ -4,7 +4,8 @@
   "description": "You will be building a simple game using TypeScript and OOP. It's going to be about hatching a Tamagotchi's egg!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
   },
   "repository": {
     "type": "git",
