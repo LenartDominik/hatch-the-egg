@@ -18,5 +18,8 @@
   "homepage": "https://github.com/nerdbord/hatch-the-egg#readme",
   "dependencies": {
     "prettier": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
   }
 }
